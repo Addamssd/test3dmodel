@@ -1,0 +1,11 @@
+Model Information:
+* title:	addamant bag
+* source:	https://sketchfab.com/3d-models/addamant-bag-1e29610d5fc848768091b271c7c2b57e
+* author:	AddSsd (https://sketchfab.com/addamantssd)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "addamant bag" (https://sketchfab.com/3d-models/addamant-bag-1e29610d5fc848768091b271c7c2b57e) by AddSsd (https://sketchfab.com/addamantssd) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
